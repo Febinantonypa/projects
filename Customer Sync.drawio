@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2020-12-03T15:52:38.566Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="13.10.6" etag="COPvZgCTI9UtY95DeD_-" type="github"><diagram id="EYjGuYK-TCy-TXoITqiG">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-03T16:46:25.322Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="7S4jVn94vQwyUkfdDUMv" version="13.10.6" type="github">
+  <diagram id="EYjGuYK-TCy-TXoITqiG" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="U24qViPOpm4FCEwBpofj-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U24qViPOpm4FCEwBpofj-9" target="U24qViPOpm4FCEwBpofj-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U24qViPOpm4FCEwBpofj-9" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Netsuite&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="90" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="U24qViPOpm4FCEwBpofj-10" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Turboviz&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="480" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U24qViPOpm4FCEwBpofj-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U24qViPOpm4FCEwBpofj-12" target="U24qViPOpm4FCEwBpofj-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U24qViPOpm4FCEwBpofj-12" value="Send Customer Details" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U24qViPOpm4FCEwBpofj-13" value="Suitescript&lt;br&gt;Scheduled/Batchedly" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="390" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U24qViPOpm4FCEwBpofj-14" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Customer Sync&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="40" width="180" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
